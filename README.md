@@ -1,4 +1,4 @@
 presentation-about-gdi
 ======================
 
-Generic presentation about the Girl Develop It organization. 
+Informational presentation about the Girl Develop It organization and the Dayton chapter. 
